@@ -1,7 +1,7 @@
 # Sorting-algorithm
 JavaScript based sorting algorithms
 
-### Simple JS Vanilla application
+#### Simple JS Vanilla application
 1. bubble sort
 2. selection sort
 3. insertion sort
