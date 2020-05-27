@@ -2,11 +2,12 @@
 JavaScript based sorting algorithms
 
 ### Simple JS Vanilla application
-bubble sort
-selection sort
-insertion sort
-merge sort 
-quick sort
+1. bubble sort
+2. selection sort
+3. insertion sort
+4. merge sort 
+5. quick sort
+plus etc
 
 Based on classical 
 1. [Algorytmy i struktury danych](http://www.algorytm.org/) 
