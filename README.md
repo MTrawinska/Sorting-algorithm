@@ -23,7 +23,7 @@ While sorting
 ![work in progress](https://github.com/MTrawinska/Sorting-algorithm/blob/master/algo2.png)
 
 Sorted
-
+![done](https://github.com/MTrawinska/Sorting-algorithm/blob/master/algo3.png)
 
 !CODE ON DEMAND
 
