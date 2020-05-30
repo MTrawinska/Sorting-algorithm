@@ -16,7 +16,7 @@ Based on classical
 
 Just simple and crisp project
 
-LIVE VERSION ---> tbd
+LIVE VERSION ---> tbd 
 
 Main view
 ![init point](https://github.com/MTrawinska/Sorting-algorithm/blob/master/algo1.png)
