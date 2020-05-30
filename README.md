@@ -14,7 +14,16 @@ Based on classical
 2. [Algorytmy, Ilustrowany przewodnik](http://www.algorytm.org/)
 3. [Introduction to algorithms, MIT](https://www.youtube.com/watch?v=HtSuA80QTyo&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb)
 
-Just simple and crisp project 
+Just simple and crisp project
+
+Main view
+![init point](https://github.com/MTrawinska/Sorting-algorithm/blob/master/algo1.png)
+
+While sorting 
+![work in progress](https://github.com/MTrawinska/Sorting-algorithm/blob/master/algo2.png)
+
+Sorted
+
 
 !CODE ON DEMAND
 
