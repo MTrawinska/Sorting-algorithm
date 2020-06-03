@@ -9,6 +9,8 @@ JavaScript based sorting algorithms
 4. Bubble sort 
 5. Cocktail Shaker Sort
 
+Requirements: Vanilla Js, CSS3, HTML5.
+
 Based on:
 1. [Algorytmy i struktury danych](http://www.algorytm.org/) 
 2. [Algorytmy, Ilustrowany przewodnik](http://www.algorytm.org/)
