@@ -19,13 +19,13 @@ Just simple and crisp project
 [LIVE VERSION](https://www.pythonanywhere.com/user/MTrawinska/files/home/MTrawinska/sorting/sortingLAST.html) 
 
 Main view
-![init point](https://github.com/MTrawinska/Sorting-algorithm/blob/master/algo1.png)
+![init point](https://github.com/MTrawinska/Sorting-algorithm/blob/master/start.png)
 
 While sorting 
-![work in progress](https://github.com/MTrawinska/Sorting-algorithm/blob/master/algo2.png)
+![work in progress](https://github.com/MTrawinska/Sorting-algorithm/blob/master/while.png)
 
 Sorted
-![done](https://github.com/MTrawinska/Sorting-algorithm/blob/master/algo3.png)
+![done](https://github.com/MTrawinska/Sorting-algorithm/blob/master/finish.png)
 
 !CODE ON DEMAND
 
