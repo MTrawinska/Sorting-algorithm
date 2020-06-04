@@ -13,7 +13,7 @@ Requirements: Vanilla Js, CSS3, HTML5.
 
 Based on:
 1. [Algorytmy i struktury danych](http://www.algorytm.org/) 
-2. [Algorytmy, Ilustrowany przewodnik](http://www.algorytm.org/)
+2. [Algorytmy, Ilustrowany przewodnik](https://helion.pl/ksiazki/algorytmy-ilustrowany-przewodnik-aditya-bhargava,algoip.htm#format/d)
 3. [Introduction to algorithms, MIT](https://www.youtube.com/watch?v=HtSuA80QTyo&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb)
 
 Just simple and crisp project
