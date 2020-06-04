@@ -18,7 +18,7 @@ Based on:
 
 Just simple and crisp project
 
-[LIVE VERSION](https://monikatrawinska.eu.pythonanywhere.com/) 
+[LIVE VERSION](http://monikatrawinska.eu.pythonanywhere.com/) 
 
 Main view
 ![init point](https://github.com/MTrawinska/Sorting-algorithm/blob/master/start.png)
